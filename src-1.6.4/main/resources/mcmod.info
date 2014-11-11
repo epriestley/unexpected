@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "unexpected",
+    "name": "Unexpected Descent",
+    "description": "Support mod for the Crash Landing modpack.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authors": ["epriestley"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
